@@ -4,7 +4,7 @@
 
 https://lunid.itch.io/skittering-peaks
 -
-an incredibly messy collection of source code for my submission to Game Off 2021
+an incredibly messy collection of all the source code for my submission to Game Off 2021
 -
 
-(sadly was not able to upload the rest of my assets due to the file limit)
+(3D assets will not be included)
